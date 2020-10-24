@@ -983,6 +983,10 @@ button:hover {
         z-index: -1;
     }
 
+    .merit-box h3 {
+        font-size: 18px;
+    }
+
     .bg-mask3 {
         background: rgba(255,255,255,0.2);
     }
