@@ -891,11 +891,11 @@ button:hover {
     }
     
     .conversion button {
-        padding: 38px 37px;
+        padding: 18px 20px;
     }
     
     .conversion-btn p {
-        font-size: 15px;
+        font-size: 20px;
         color: #ffffff;
         font-weight: bold;
     }
