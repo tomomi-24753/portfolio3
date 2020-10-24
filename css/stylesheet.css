@@ -921,6 +921,7 @@ button:hover {
     .underline2 {
         font-size: 20px;
         margin-bottom: 32px;
+        padding-top: 60px;
     }
 
     .course-about {
@@ -949,12 +950,16 @@ button:hover {
     }
 
     .underline3,.underline4,.underline5 {
-        font-size: 25px;
+        font-size: 20px;
     }
 
     .underline3:before, .underline4:before {
         bottom: -15px;
         width: 30%;
+    }
+
+    .greentxt {
+        padding-top: 60px;
     }
 
     .merit {
