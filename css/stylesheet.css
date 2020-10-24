@@ -1050,6 +1050,11 @@ button:hover {
         left: 38%;
     }
 
+    .greenbrackets::before, .greenbrackets::after {
+        width: 45px;
+        height: 45px;
+    }
+
     .underline5 {
         margin-bottom: 70px;
     }
@@ -1078,7 +1083,7 @@ button:hover {
     }
 
     .professor-message {
-        padding: 7px 30px 28px;
+        padding: 7px 25px 28px;
     }
 
     .question {
@@ -1086,11 +1091,11 @@ button:hover {
     }
 
     .p-txt {
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .a-txt {
-        font-size: 16px;
+        font-size: 13px;
     }
 
     .footer-icon {
