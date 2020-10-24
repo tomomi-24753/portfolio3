@@ -603,7 +603,7 @@ button:hover {
 .professor-message:before {
     content: "";
     position: absolute;
-    top: -23%;
+    top: -28%;
     left: 46%;
     margin-left: -15px;
     border: 71px solid transparent;
@@ -762,6 +762,11 @@ button:hover {
 
     .feature h3 {
         line-height: 1.5;
+    }
+
+    .professor-message:before {
+        top: -20%;
+        left: 45%;
     }
 
 }
@@ -1050,7 +1055,7 @@ button:hover {
     }
 
     .professor-message:before {
-        top: -15%;
+        top: -25%;
         left: 38%;
     }
 
