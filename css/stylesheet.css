@@ -890,7 +890,7 @@ button:hover {
     }
     
     .conversion-btn p {
-        font-size: 18px;
+        font-size: 15px;
         color: #ffffff;
         font-weight: bold;
     }
@@ -928,7 +928,7 @@ button:hover {
     }
 
     .course-about h3 {
-        font-size: 15px;
+        font-size: 13px;
         padding-right: 60px;
         padding-left: 60px;
     }
@@ -943,7 +943,7 @@ button:hover {
     }
 
     .course-about-txt {
-        font-size: 18px;
+        font-size: 13px;
         margin-right: 28px;
         margin-left: 28px;
     }
