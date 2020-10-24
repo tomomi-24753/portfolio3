@@ -1080,7 +1080,11 @@ button:hover {
         left: 0;
     }
 
-    .professor-message p {
+    .greentxt-message {
+        font-size: 24px;
+    }
+
+    .greenbrackets p {
         margin-right: 12px;
         margin-left: 12px;
         font-size: 12px;
