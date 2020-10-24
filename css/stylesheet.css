@@ -1069,6 +1069,7 @@ button:hover {
     .professor-message p {
         margin-right: 12px;
         margin-left: 12px;
+        font-size: 12px;
     }
 
     .greenbrackets::after {
