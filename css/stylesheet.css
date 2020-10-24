@@ -857,11 +857,11 @@ button:hover {
 
     .catch-copy h1 {
         font-size: 25px;
-        padding: 58px 67px 37px;
+        padding: 58px 50px 37px;
     }
 
     .catch-copy p {
-        font-size: 15px;
+        font-size: 13px;
         line-height: 1.5;
         margin-right: 0;
     }
